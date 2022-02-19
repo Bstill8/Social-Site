@@ -1,0 +1,14 @@
+{
+  "name": "social-site",
+  "version": "1.0.0",
+  "description": "resume social media mockup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Brendan Stillwell",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
