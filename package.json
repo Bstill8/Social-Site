@@ -9,6 +9,7 @@
   "author": "Brendan Stillwell",
   "license": "ISC",
   "dependencies": {
+    "mariadb": "^3.0.0",
     "react": "^17.0.2"
   }
 }
