@@ -1,1 +1,1 @@
-Social media site mock-up for resume
+Social media site for resume
