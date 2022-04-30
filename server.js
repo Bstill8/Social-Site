@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 // GET
 app.get('/', async (req, res) => {
     try {
-
+        const result = await db.pool.query("select * from users")
     } catch (err) {
         throw err;
     }
