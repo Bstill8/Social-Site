@@ -25,7 +25,9 @@ test('Test createUser/deleteUser', async() => {
     expect(delResponse.warningStatus).toEqual(0)
     
 });
-
+test('Test Friends', async() => {
+    expect(func.friendRequest(conn, ))
+});
 afterAll(() => {
     conn.release();
     pool.end();
